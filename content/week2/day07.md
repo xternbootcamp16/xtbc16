@@ -32,6 +32,7 @@ Presentations have been converted from their original format to play in web brow
 Create student rivalries with the [Xtern Roster API](https://xtern-roster.herokuapp.com/)
 
 There are two resources in this API:
+
 * [People](https://xtern-roster.herokuapp.com/people)
 * [Rivalries](https://xtern-roster.herokuapp.com/rivalries)
 
