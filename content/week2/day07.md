@@ -37,5 +37,6 @@ There are two resources in this API:
 * [Rivalries](https://xtern-roster.herokuapp.com/rivalries)
 
 Build an app that allows visitors to do the following:
+
  * Create, read, update, and delete person records
  * Create, read, update, and delete a person's rivalries with others
