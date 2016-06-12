@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    {{ partial "meta.html" . }}
+    {{ partial "favicon.html" . }}
+{{ .Scratch.Add "title" "" }}{{ if isset .Site.Data.titles .Title }}{{ .Scratch.Set "title" (index .Site.Data.titles .Title).title }}{{ else }}{{ .Scratch.Set "title" .Title}}{{end}}
+    <title>{{ .Scratch.Get "title" }}</title>
+    {{ partial "style.html" . }}
+    <link href="/css/nucleus.css" rel="stylesheet">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/hybrid.css" rel="stylesheet">
+    <link href="/css/featherlight.min.css" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css" rel="stylesheet">
+    <link href="/css/theme.css" rel="stylesheet">
+    <link href="/css/hugo-theme.css" rel="stylesheet">
+    <style type="text/css">
+    :root #header + #content > #left > #rlblock_left {
+      display:none !important;
+    }
+
+    p,li,ul {
+      text-align: center
+    }
+
+    ul
+    {
+        list-style-type: none;
+    }
+</style>
+  </head>
+    <body class="" data-url="/" id="home">
+
+          <section id="body" style="margin-left:0px;">
+          <div id="overlay"></div>
+
+          <div class="padding highlightable">
+            <h1><a href="/week1"><img src="/images/xtbc.png" alt="Xtern Bootcamp"></a></h1>
+            <p><strong><a href="/week1">Head to the day-by-day course outline with topics, presentations, and code.</a></strong></p>
+            <p><i class="fa fa-github"></i> <a href="https://github.com/xternbootcamp16">Get the source code for the projects.</a></p>
+            <p>
+              Xtern Bootcamp is a 10-week program for college juniors who are pursuing computer-related degrees who have not yet had on-the-job experience in the field.
+            </p>
+            <p><a href="mailto:dave@getfretless.com">Get in touch with the instructor.</a></p>
+            <p>
+              For more information about Xtern, visit <a href="http://xtern.me">http://xtern.me</a>.
+            </p>
+            <p>
+              Learn more about Fretless at <a href="http://www.getfretless.com">http://www.getfretless.com</a>.
+            </p>
+            <p><a href="/week1"><i class="fa fa-code fa-4x"></i></a></p>
+          </div>
+        </section>
+  </body>
+</html>
