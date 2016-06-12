@@ -15,6 +15,12 @@
 #header #logo-svg path {
     fill: #fff;
 }
+#sidebar {
+  background-color: #333;
+}
+#sidebar ul.topics > li.parent, #sidebar ul.topics > li.active {
+  background-color: #292929;
+}
 date {
   display: block;
   text-align: center;
