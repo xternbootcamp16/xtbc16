@@ -25,6 +25,42 @@ date {
   display: block;
   text-align: center;
 }
+.gf-red {
+  color: #ff5252;
+}
+.gf-tab {
+  border-bottom: 2px solid #ff5252;
+  font-weight: bold;
+  text-transform: uppercase;
+  zoom: 0.75;
+  padding: 0px 8px 8px 8px;
+  text-align: center;
+  color: #ff5252;
+  font-size: 14px;
+  line-height: 12px;
+}
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+p.file {
+  color: #a2a2a2;
+  font-family: "Consolas", menlo, monospace;
+  margin-bottom: 0;
+}
+p.file + p {
+  display: none;
+}
+p.file + p + pre {
+  margin-top: 0;
+}
+
 /*#footer {
   text-align: center;
 }*/
