@@ -1,6 +1,6 @@
 +++
 date = "2016-06-13T16:19:37-04:00"
-next = "/week3/day10"
+next = "/week3/day11"
 prev = "/week3"
 title = "Day 10: ui-router Basics"
 toc = true
