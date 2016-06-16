@@ -1,6 +1,6 @@
 +++
 date = "2016-06-15T19:57:29-04:00"
-next = "/next/path"
+next = "/week3/day13"
 prev = "/week3/day11"
 title = "Day 12: Update & Delete"
 toc = true
