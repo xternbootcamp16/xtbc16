@@ -1,6 +1,6 @@
 +++
 date = "2016-06-14T16:50:36-04:00"
-next = "/week3/day11"
+next = "/week3/day12"
 prev = "/week3/day10"
 title = "Day 11: Angular Services"
 toc = true
@@ -14,7 +14,7 @@ weight = 2
 
 ### Dependency Injection
 
-* [Dependency Injection De-Mystified](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)
+* [Dependency Injection Demystified](http://anandmanisankar.com/posts/angularjs-dependency-injection-demystified/)
 * `ng-strict-di`
 * `$inject`
 
@@ -43,10 +43,14 @@ weight = 2
 
 ## Links
 * [ESLint](http://eslint.org/)
-* [ESLint: Atom package](https://atom.io/packages/linter-eslint)
+* [Linter-ESLint (Atom package)](https://atom.io/packages/linter-eslint)
 * [John Papa Angular Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
-* [Line-ending selector (Atom package)](https://atom.io/packages/line-ending-selector)
+* [Line Ending Selector (Atom package)](https://atom.io/packages/line-ending-selector)
 
 ## Projects
 
-* Meganote [source](https://github.com/xternbootcamp16/meganote/tree/7dce724d56da3f7f463f305dd52360b16c5558e5) | [live](http://bootcamp16.getfretless.com/meganote/#/notes/)
+Meganote, now loading notes from an API: [source](https://github.com/xternbootcamp16/meganote/tree/7dce724d56da3f7f463f305dd52360b16c5558e5) | [live](http://bootcamp16.getfretless.com/meganote/#/notes/)
+
+## Homework
+
+Implement update and delete.
