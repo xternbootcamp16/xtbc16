@@ -1,7 +1,7 @@
 +++
 date = "2016-06-14T21:56:25-04:00"
-next = "/meganote/02-setup"
-prev = "/meganote"
+next = "/app-meganote/02-setup"
+prev = "/app-meganote"
 title = "Meganote-Seed"
 toc = true
 weight = 1

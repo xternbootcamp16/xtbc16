@@ -1,7 +1,7 @@
 +++
 date = "2016-06-15T19:53:04-04:00"
-next = "/meganote/07-notescontroller"
-prev = "/meganote/06-modules-routes"
+next = "/app-meganote/07-notescontroller"
+prev = "/app-meganote/06-modules-routes"
 title = "NotesController"
 toc = true
 weight = 5

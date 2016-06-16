@@ -1,7 +1,7 @@
 +++
 date = "2016-06-15T15:39:05-04:00"
-next = "/meganote/06-modules-routes"
-prev = "/meganote/04-bootstrap"
+next = "/app-meganote/06-modules-routes"
+prev = "/app-meganote/04-bootstrap"
 title = "Layout & Style"
 toc = true
 weight = 5

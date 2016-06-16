@@ -1,7 +1,7 @@
 +++
 date = "2016-06-15T09:05:23-04:00"
-next = "/meganote/04-bootstrap"
-prev = "/meganote/02-setup"
+next = "/app-meganote/04-bootstrap"
+prev = "/app-meganote/02-setup"
 title = "Google Fonts"
 toc = true
 weight = 3
