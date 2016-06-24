@@ -1,6 +1,6 @@
 +++
 date = "2016-06-23T11:36:04-04:00"
-next = "/week4/day18"
+next = "/week4/day19"
 prev = "/week4/day17"
 title = "Day 18: Re-Factory-ing"
 toc = true
