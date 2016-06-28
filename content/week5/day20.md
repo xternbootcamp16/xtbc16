@@ -1,10 +1,10 @@
 +++
 date = "2016-06-27T16:25:11-04:00"
-next = "/week5/day20"
+next = "/week5/day21"
 prev = "/week5"
 title = "Day 20: Mailgun and Firebase Security"
 toc = true
-weight = 5
+weight = 1
 
 +++
 
