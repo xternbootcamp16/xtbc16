@@ -1,6 +1,6 @@
 +++
 date = "2016-06-29T16:21:28-04:00"
-next = "/week5/day22"
+next = "/week6/day25"
 prev = "/week5/day21"
 title = "Days 22-24: Wrapping up Mutant Office Hours"
 toc = true
