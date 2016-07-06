@@ -1,7 +1,7 @@
 +++
 date = "2016-07-05T15:37:48-04:00"
-next = "/week6/day25"
-prev = "/week5/day22"
+next = "/week6/day26"
+prev = "/week6"
 title = "Day 25: Review"
 toc = true
 weight = 1
