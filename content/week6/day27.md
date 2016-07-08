@@ -1,6 +1,6 @@
 +++
 date = "2016-07-07T14:52:33-04:00"
-next = "/week6/day27"
+next = "/week6/day28"
 prev = "/week6/day26"
 title = "Day 27: ECMAScript 6"
 toc = true
