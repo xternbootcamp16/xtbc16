@@ -1,6 +1,6 @@
 +++
 date = "2016-07-12T15:22:54-04:00"
-next = "/week7/day30"
+next = "/week7/day32"
 prev = "/week7/day29"
 title = "Day 30: Authentication with JWT"
 toc = true
