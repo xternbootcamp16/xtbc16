@@ -1,31 +1,35 @@
-# Hugo Learn Theme
+# Xtern Bootcamp 2016 Site
 
-This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](http://learn.getgrav.org/).
+The xtbc16 site was built with [Hugo](http://gohugo.io/), using the [Learn theme](http://themes.gohugo.io/hugo-theme-learn/).
 
-Visit the [theme documentation](https://matcornic.github.io/hugo-learn-doc/basics/what-is-this-hugo-theme/) to see what is going on. It is actually built with this theme.
+## Running in development
 
-### Installation
-Navigate to your themes folder in your Hugo site and use the following commands:
+Start the server with the following command:
+
+```shell
+hugo serve
 ```
-$ cd themes
-$ git clone https://github.com/matcornic/hugo-theme-learn.git
+
+You can reach the site at [http://localhost:1313](http://localhost:1313). The server features hot-reloading.
+
+## Adding a section
+
+```shell
+hugo new --kind chapter path/index.md
 ```
 
-![Overview](images/tn.png)
+## Adding a page
 
-# Main functionalities
+```shell
+hugo new path/file.md
+```
 
-- Handle two levels of documentation
-- Tip/Note/Info and Warning boxes
-- Resize images
-- Preview of original image size
-- Add shadow or border on images
-- Automatic table of contents
-- Create buttons (typically used to provide a link to a demo)
+## Building and Deploying
 
-# TODO
+Build the site with the following command:
 
-- Handling more than 2 levels in documentation.
-- Search in site
-- Handling videos
-- Add optional button to create doc issue (like github)
+```shell
+hugo
+```
+
+The compiled site will be in the `public` directory. Copy its contents to the static host of your choice, or to the `gh-pages` ([GitHub Pages](https://pages.github.com/)) branch.

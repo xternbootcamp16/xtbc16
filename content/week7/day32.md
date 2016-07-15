@@ -1,7 +1,7 @@
 +++
 date = "2016-07-14T14:49:51-04:00"
-next = "/week7/day32"
-prev = "/week7/day30"
+next = "/week7/day33"
+prev = "/week7/day31"
 title = "Day 32: Minification, Promises and ng-Resource"
 toc = true
 weight = 4
