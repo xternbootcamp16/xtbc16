@@ -1,6 +1,6 @@
 +++
 date = "2016-07-18T16:40:12-04:00"
-next = "/week8/day34"
+next = "/week8/day35"
 prev = "/week8"
 title = "Day 34: Ruby on Rails"
 toc = true
