@@ -1,6 +1,6 @@
 +++
 date = "2016-07-19T15:27:44-04:00"
-next = "/week8/day35"
+next = "/week8/day36"
 prev = "/week8/day34"
 title = "Day 35: Readme and more Bluit"
 toc = true
@@ -34,7 +34,7 @@ The Atom text editor has a package available called `markdown-preview`.  It allo
 
 Bluit: [Morning](https://github.com/xternbootcamp16/bluit-rails/tree/247ba5a423d5aaabb35d3c46c8321a9108d61a6a) | [Afternoon](https://github.com/xternbootcamp16/bluit-rails/tree/410772f8af43260de299f783b0f51a63e56c7ee4)
 
-Bluit wiki with detailed build instructions: [wiki](https://github.com/xternbootcamp16/bluit-rails/wiki/01-Setup) 
+Bluit wiki with detailed build instructions: [wiki](https://github.com/xternbootcamp16/bluit-rails/wiki/01-Setup)
 
 ## Homework
 
