@@ -1,6 +1,6 @@
 +++
 date = "2016-07-20T15:56:50-04:00"
-next = "/week8/day36"
+next = "/week8/day37"
 prev = "/week8/day35"
 title = "Day 36: Testing, Partials, Pagination, Devise"
 toc = true
