@@ -188,7 +188,7 @@ h4 {
 }
 
 h5 {
-  font-size: 1;
+  font-size: 1rem;
   line-height: 110% !important;
   margin: 1rem 0 0.2rem 0;
 }
@@ -201,4 +201,12 @@ h6 {
 
 p {
     margin: 1rem 0;
+}
+
+figcaption h4 {
+    font-weight: 300 !important;
+    opacity: .85;
+    font-size: 1em;
+    text-align: center;
+    margin-top: -1.5em;
 }

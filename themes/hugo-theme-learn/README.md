@@ -1,35 +1,35 @@
-# Xtern Bootcamp 2016 Site
+# Hugo Learn Theme
 
-The xtbc16 site was built with [Hugo](http://gohugo.io/), using the [Learn theme](http://themes.gohugo.io/hugo-theme-learn/).
+This repository contains a theme for [Hugo](https://gohugo.io/), based on great [Grav Learn Theme](http://learn.getgrav.org/).
 
-## Running in development
+Visit the [theme documentation](https://matcornic.github.io/hugo-learn-doc/basics/what-is-this-hugo-theme/) to see what is going on. It is actually built with this theme.
 
-Start the server with the following command:
-
-```shell
-hugo serve
+## Installation
+Navigate to your themes folder in your Hugo site and use the following commands:
+```
+$ cd themes
+$ git clone https://github.com/matcornic/hugo-theme-learn.git
 ```
 
-You can reach the site at [http://localhost:1313](http://localhost:1313). The server features hot-reloading.
+![Overview](https://github.com/matcornic/hugo-theme-learn/raw/master/images/tn.png)
 
-## Adding a section
+## Usage
 
-```shell
-hugo new --kind chapter path/index.md
-```
+- [Visit the documentation](https://matcornic.github.io/hugo-learn-doc/basics/what-is-this-hugo-theme/)
 
-## Adding a page
+# Main functionalities
 
-```shell
-hugo new path/file.md
-```
+- Handle two levels of documentation
+- Tip/Note/Info and Warning boxes
+- Resize images
+- Preview of original image size
+- Add shadow or border on images
+- Automatic table of contents
+- Create buttons (typically used to provide a link to a demo)
+- Search using `lunr` index
 
-## Building and Deploying
+# TODO
 
-Build the site with the following command:
-
-```shell
-hugo
-```
-
-The compiled site will be in the `public` directory. Copy its contents to the static host of your choice, or to the `gh-pages` ([GitHub Pages](https://pages.github.com/)) branch.
+- [Handling more than 2 levels in documentation](https://github.com/matcornic/hugo-theme-learn/issues/11)
+- [Handling videos](https://github.com/matcornic/hugo-theme-learn/issues/13)
+- [Add optional button to create doc issue (like github)](https://github.com/matcornic/hugo-theme-learn/issues/14)

@@ -1,9 +1,10 @@
-#header {
+#header-wrapper {
     background: #404040;
     border-bottom: 4px solid #7a7a7a;
+}
+#header {
     color: #fff;
     text-align: center;
-    padding: 1rem;
 }
 #header a {
     display: inline-block;
